@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreDulla
-- 👀 I’m interested in to develop something useful
+- 👀 I’m interested to develop something useful
 - 🌱 I’m currently learning Python and HTML.
 
 <!---
