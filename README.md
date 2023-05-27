@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreDulla
 - 👀 I’m interested to develop something useful
-- 🌱 I’m currently learning Python and HTML.
+- 🌱 I’m currently learning C, JS, HTML.
 
 <!---
 AndreDulla/AndreDulla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
