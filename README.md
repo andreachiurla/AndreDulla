@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndreDulla
+- 👋 Hi, I’m Andrea
 - 👀 I’m interested to develop something useful
 - 🌱 I’m a student and currently I'm learning Java and web developing.
 - 📚 I know C.
