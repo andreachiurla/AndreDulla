@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrea
-- 👀 I’m interested to develop something useful
+- 👀 I’m interested in the world of developing and I want to help other people fixing problems.
 - 🌱 I’m a student and currently I'm learning Java and web developing.
 - 📚 I know C.
 
